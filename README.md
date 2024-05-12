@@ -1,0 +1,1 @@
+Demo WEB automation project using Playwright framework with TypeScript.
